@@ -145,3 +145,5 @@ function formatDate(n, locale = 'id') {
 }
 
 export default connect;
+
+console.log('server jalan di',PORT)
